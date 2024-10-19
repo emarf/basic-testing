@@ -1,4 +1,4 @@
-import { simpleCalculator, Action } from './index';
+import { Action, simpleCalculator } from './index';
 
 describe('simpleCalculator tests', () => {
   test('should add two numbers', () => {
